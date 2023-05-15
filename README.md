@@ -1,2 +1,2 @@
-# Mern-Stack-Todolist
-Mern-Stack-Todolist: A MERN stack application
+# MERN-Stack-Todolist
+MERN-Stack-Todolist: A MERN stack application
